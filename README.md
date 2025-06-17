@@ -73,7 +73,7 @@ Interactive Filters (Slicers): Let users drill down by year, country, company, a
 💸 No significant correlation between funding raised and layoffs, indicating that layoffs are influenced more by operational or market strategy than by available capital
 
 
-Here’s a visual overview showcasing the dashboard’s components and interactivity ((https://github.com/Arpita0797/A-Global-Layoff-Intelligence-Dashboard-2020-2024-/tree/main))
+Here’s a visual overview showcasing the dashboard’s components and interactivity ((https://github.com/Arpita0797/A-Global-Layoff-Intelligence-Dashboard-2020-2024-/blob/main/Global%20Layoff%20Intelligence%20Dashboard.png))
 
 
 
