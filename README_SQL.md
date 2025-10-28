@@ -1,6 +1,8 @@
 # 💼 Global Layoffs SQL Project — Analyzing Workforce Trends Across Industries
 
-![Layoffs Banner](https://keydifferences.com/wp-content/uploads/2014/08/lay-off-vs-retrenchment1.jpg)
+<p align="center">
+  <img src="https://keydifferences.com/wp-content/uploads/2014/08/lay-off-vs-retrenchment1.jpg" alt="Layoff vs Retrenchment" width="700">
+</p>
 
 ---
 
