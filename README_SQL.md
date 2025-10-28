@@ -1,6 +1,6 @@
 # 💼 Global Layoffs SQL Project — Analyzing Workforce Trends Across Industries
 
-![Layoffs Banner]((https://keydifferences.com/wp-content/uploads/2014/08/lay-off-vs-retrenchment1.jpg))
+![Layoffs Banner](https://keydifferences.com/wp-content/uploads/2014/08/lay-off-vs-retrenchment1.jpg)
 
 ---
 
@@ -84,7 +84,7 @@ SELECT COUNT(*) AS TOTAL_ROWS FROM layoffs_data;
 ```
 
 ---
-
+---
 **3)Total layoffs overall**
 
 ```sql
@@ -92,19 +92,20 @@ SELECT SUM(Laid_Off_Count) AS TOTAL_LAYOFF FROM layoffs_data;
 ```
 
 ---
-
+---
 ** 4)Total companies affected**
 
 ```sql
 SELECT SUM(DISTINCT(Company)) AS AFFECTED_COMAPNY FROM layoffs_data;
 ```
-
+---
 ---
 ** 5)Total funds raised overall**
 
 ```sql
 SELECT SUM(Funds_raised) AS TOTAL_FUNDS FROM layoffs_data;
 ```
+---
 ---
 ** 6)Top 10 companies by total layoffsl**
 
@@ -115,7 +116,7 @@ GROUP BY COMPANY
 ORDER BY TOP_AFFECTED_COMAPNY DESC
 LIMIT 10;
 ```
-
+---
 ---
 **7)Layoffs by country**
 
