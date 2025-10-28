@@ -75,6 +75,8 @@ Interactive Filters (Slicers): Let users drill down by year, country, company, a
 
 Here’s a visual overview showcasing the dashboard’s components and interactivity ((https://github.com/Arpita0797/A-Global-Layoff-Intelligence-Dashboard-2020-2024-/blob/main/Global%20Layoff%20Intelligence%20Dashboard.png))
 
+🔗 [Click here to view the SQL Analysis Documentation](README_SQL.md)
+
 
 
 
